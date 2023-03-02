@@ -30,9 +30,3 @@ service Order {
     rpc Create(CreateOrderRequest) returns (CreateOrderResponse){}
     rpc Get(GetOrderRequest) returns (GetOrderResponse){}
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
